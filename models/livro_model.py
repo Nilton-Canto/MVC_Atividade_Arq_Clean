@@ -1,4 +1,3 @@
-# models/livro_model.py
 class Livro:
     def __init__(self, id_livro: int, titulo: str, preco: float, sinopse: str):
         self.id = id_livro
