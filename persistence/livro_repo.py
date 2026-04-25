@@ -1,4 +1,3 @@
-# persistence/livro_repo.py
 import os
 from models.livro_model import Livro
 

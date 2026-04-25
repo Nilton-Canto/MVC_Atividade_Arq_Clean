@@ -1,4 +1,3 @@
-# main.py
 from fastapi import FastAPI
 from fastapi.responses import FileResponse
 # Corrigido: Importando das rotas, não do controlador
